@@ -1,0 +1,6 @@
+{
+  "name": "CV Analyzer",
+  "description": "Vercel-inspired AI CV/Resume Analyzer, ATS auditor, tailored interview question generator, and real-time interactive mock interview prep system.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
